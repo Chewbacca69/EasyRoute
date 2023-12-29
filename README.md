@@ -83,5 +83,5 @@ try {
 
 ### Routes without Type Markers:
 
-- **`/products/{category}/{text}`**: This route includes `{category}` parameter without specific type markers `{category/t}` or `{category/d}`.
+- **`/products/{category}`**: This route includes `{category}` parameter without specific type markers `{category/t}` or `{category/d}`.
     - `{category}`: Accepts various types of parameters (digits, alphabetic characters, etc.).
