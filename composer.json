@@ -1,0 +1,20 @@
+{
+  "name": "vilnis/easy-route",
+  "type": "library",
+  "license": "MIT",
+  "description": "Easy to use PHP router.",
+  "autoload": {
+    "psr-4": {
+      "EasyRoute\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Vilnis",
+      "email": "chewbacca261@proton.me"
+    }
+  ],
+  "require": {
+    "php": ">=8.1.0"
+  }
+}
